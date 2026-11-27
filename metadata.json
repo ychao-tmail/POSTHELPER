@@ -1,0 +1,6 @@
+{
+  "name": "師生社群貼文小幫手",
+  "description": "專為師生競賽獲獎、專題成果與校園活動打造的 AI 社群文案產生器，一鍵生成 IG、FB、Threads 多平台貼文！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
